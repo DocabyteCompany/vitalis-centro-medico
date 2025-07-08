@@ -1,0 +1,37 @@
+{
+  "name": "vitalis-centro-medico",
+  "version": "1.0.0",
+  "description": "Sitio web del Centro Médico Vitalis - Portafolio de desarrollo web",
+  "main": "index.html",
+  "scripts": {
+    "optimize": "node optimize-images.js",
+    "dev": "npx serve .",
+    "build": "echo 'Build completado - archivos estáticos listos'",
+    "deploy": "echo 'Listo para desplegar en Vercel'"
+  },
+  "keywords": [
+    "medical",
+    "healthcare",
+    "portfolio",
+    "webflow",
+    "responsive",
+    "vercel"
+  ],
+  "author": "Docabyte Agency",
+  "license": "MIT",
+  "devDependencies": {
+    "sharp": "^0.32.6",
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/vitalis-centro-medico.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/vitalis-centro-medico/issues"
+  },
+  "homepage": "https://vitalis-centro-medico.vercel.app"
+} 

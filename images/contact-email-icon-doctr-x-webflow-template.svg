@@ -1,0 +1,26 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_58_30602)">
+<rect width="80" height="80" fill="#E6F9FF"/>
+<path d="M80 40C80 62.0914 62.0914 80 40 80C17.9086 80 0 62.0914 0 40C0 17.9086 17.9086 0 40 0C62.0914 0 80 17.9086 80 40Z" fill="white"/>
+<path opacity="0.3" d="M80 40C80 62.0914 62.0914 80 40 80C17.9086 80 0 62.0914 0 40C0 17.9086 17.9086 0 40 0C62.0914 0 80 17.9086 80 40Z" fill="#AAEAFF"/>
+<path d="M22.9144 36.7754C21.966 36.7754 21.5503 35.5785 22.2945 34.9907L38.1756 22.4459C39.2657 21.5847 40.8046 21.5847 41.8947 22.4459L57.7758 34.9907" fill="#13182F"/>
+<path d="M57.7758 34.9907L41.8947 22.4459C40.8046 21.5847 39.2657 21.5847 38.1756 22.4459L22.2945 34.9907C21.5503 35.5785 21.966 36.7754 22.9144 36.7754L57.1559 36.7754C58.1043 36.7754 58.52 35.5785 57.7758 34.9907Z" stroke="#13182F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="21.4844" y="34.8945" width="37.6087" height="24.6272" rx="2" fill="white" stroke="#13182F" stroke-width="2"/>
+<path d="M57.9719 35.6084L41.9022 48.3023C40.812 49.1634 39.2732 49.1634 38.183 48.3023L22.1133 35.6084" fill="#13182F"/>
+<path d="M57.9719 35.6084L41.9022 48.3023C40.812 49.1634 39.2732 49.1634 38.183 48.3023L22.1133 35.6084H57.9719Z" stroke="#13182F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36.7722 47.1953L22.5781 58.4129" stroke="#13182F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57.5026 58.4129L43.3086 47.1953" stroke="#13182F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<mask id="mask0_58_30602" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="21" y="20" width="38" height="30">
+<path d="M21.7266 20.4951V34.6865L40.4428 49.7594L58.8652 34.6865V20.4951H21.7266Z" fill="#3D65FF"/>
+</mask>
+<g mask="url(#mask0_58_30602)">
+<rect x="26.793" y="23.874" width="26.4822" height="27.5308" rx="3" fill="#3D65FF"/>
+</g>
+<path d="M57.9719 35.6084L41.9022 48.3023C40.812 49.1634 39.2732 49.1634 38.183 48.3023L22.1133 35.6084" stroke="#13182F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_58_30602">
+<rect width="80" height="80" fill="white"/>
+</clipPath>
+</defs>
+</svg>
